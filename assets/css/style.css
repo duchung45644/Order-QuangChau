@@ -34,7 +34,7 @@ ul{
 header{
     height: fit-content;
     padding: 5px;
-    background: url('/assets/img/bg-header.jpg');
+    background: url('../assets/img/bg-header.jpg');
 }
 
 .header__content{
@@ -410,7 +410,7 @@ input:focus ~ span{
 }
 
 .guide{
-    background: url('/assets/img/bg-image-type2-bottom.png') no-repeat;
+    background: url('../assets/img/bg-image-type2-bottom.png') no-repeat;
     background-size: 100% 100%;
     min-height: 800px;
     color: #fff;
@@ -420,7 +420,7 @@ input:focus ~ span{
 }
 
 .video{
-    background: url('/assets/img/macbook.png') no-repeat;    
+    background: url('../assets/img/macbook.png') no-repeat;    
     background-size: 100% 100%;
     height: 600px;
     z-index: 1;
@@ -558,7 +558,7 @@ footer{
 }
 
 footer .container{
-    background: url('/assets/img/bg-locate.png') #242628;
+    background: url('../assets/img/bg-locate.png') #242628;
     background-size: 100% 100%;
     height: 130%;
 }
